@@ -3,3 +3,5 @@ temp/
 __pycache__/
 errors.txt
 log.txt
+traceback.txt
+saves/

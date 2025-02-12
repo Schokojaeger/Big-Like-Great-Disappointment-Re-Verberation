@@ -1,6 +1,6 @@
 ﻿
 
-$ uhcounter = 0
+default uhcounter = 0
 label start:
 
     call start_home
