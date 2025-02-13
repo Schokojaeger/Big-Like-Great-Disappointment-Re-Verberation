@@ -43,7 +43,7 @@ label start_home:
     show notim menace
     with dissolve
     # audio files to be added
-    #with bgm_home
+    #play music bgm_home
 
     "A bald, skinny man standing right in front of your bed."
     "A window is shattered and wet footsteps on the ground are leading right to him"
@@ -353,3 +353,7 @@ label trainpartner:
     notim "That's why I got you a training partner who was more than happy to escort me today."
     notim "I had them wait in your basement to not overwhelm you right off the bat."
     notim "Go down and talk to them."
+
+    #stop music
+    #with fade
+    jump basement
