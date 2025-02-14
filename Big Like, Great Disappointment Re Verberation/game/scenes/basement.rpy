@@ -83,6 +83,9 @@ label basement:
 
                             #stop music
                             #with fade
+                            scene bg black
+                            with dissolve
+                            pause 2.0
                             jump up
                         
                         "\"On second thought, I still need you for something.\"":
@@ -102,6 +105,9 @@ label basement:
 
                             #stop music
                             #with fade
+                            scene bg black
+                            with dissolve
+                            pause 2.0
                             jump up
 
                 "\"Oh I see, I guess that makes sense. It’s really nice of you to go along with all of this. I suppose there really are still some good people out there.\"":
@@ -152,6 +158,9 @@ label questions:
 
                     #stop music
                     #with fade
+                    scene bg black
+                    with dissolve
+                    pause 2.0
                     jump up
                 
                 "\"Look, this is hard for me as well. I don’t really have any social interaction in my daily life, but I’m doing my best. So just bear with me.\"":
@@ -176,6 +185,9 @@ label questions:
 
                             #stop music
                             #with fade
+                            scene bg black
+                            with dissolve
+                            pause 2.0
                             jump up
                         
                         "\"I’m sorry, this is stupid. Let’s just forget about it\"":
@@ -194,6 +206,9 @@ label questions:
 
                             #stop music
                             #with fade
+                            scene bg black
+                            with dissolve
+                            pause 2.0
                             jump up
                         
                         "\"uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\"":
@@ -205,6 +220,9 @@ label questions:
 
                             #stop music
                             #with fade
+                            scene bg black
+                            with dissolve
+                            pause 2.0
                             jump up
                 
                 "\"Uhhhhhh…….uhhhhhhhhh………ugh\"":
@@ -218,6 +236,9 @@ label questions:
 
                     #stop music
                     #with fade
+                    scene bg black
+                    with dissolve
+                    pause 2.0
                     jump up
         
         "\"I need you to go on a date with me.\"":
@@ -252,6 +273,9 @@ label questions:
                                     "You slip on the ground and hit your head, making you lose 20 IQ and lowering your social credit score by -500."
                                     "Afterwards, you leave and go back upstairs since you can't remember what you were doing."
 
+                                    scene bg black
+                                    with dissolve
+                                    pause 2.0
                                     jump up
                                 
                                 "\"Kill you? I just want to go on a date with you\"":
@@ -285,6 +309,9 @@ label questions:
 
                                             #stop music
                                             #with fade
+                                            scene bg black
+                                            with dissolve
+                                            pause 2.0
                                             jump up
                                 
                                 "\"Uhhhhhhhh……..uhmmm……huuuuuuuuuu\"":
@@ -301,6 +328,9 @@ label questions:
 
                                     #stop music
                                     #with fade
+                                    scene bg black
+                                    with dissolve
+                                    pause 2.0
                                     jump up
 
 
@@ -318,7 +348,9 @@ label questions:
 
                             #stop music
                             #with fade
-
+                            scene bg black
+                            with dissolve
+                            pause 2.0
                             jump up
                         
                         "\"uhhhhhhhhhhhh…….uhhhh………uhhhhhhh\"":
@@ -333,6 +365,9 @@ label questions:
 
                             #stop music
                             #with fade
+                            scene bg black
+                            with dissolve
+                            pause 2.0
                             jump up
                 
                 "*approach her* \"Come on, let's go. You and me\"":
@@ -351,6 +386,9 @@ label questions:
 
                     #stop music
                     #with fade
+                    scene bg black
+                    with dissolve
+                    pause 2.0
                     jump up
                 
                 "\"ughhhhhhh……….uhhhhhhhhhh\"":
@@ -369,6 +407,9 @@ label questions:
 
                     #stop music
                     #with fade
+                    scene bg black
+                    with dissolve
+                    pause 2.0
                     jump up
         
         "\"ughhhhhhh………uhhhhhhhhhh\"":
@@ -384,4 +425,7 @@ label questions:
 
             #stop music
             #with fade
+            scene bg black
+            with dissolve
+            pause 2.0
             jump up
